@@ -1,4 +1,7 @@
 <?php 
+namespace PINPON\model;
+use PINPON\model\Producto;
+
 include "producto.php";
 
 class MesaPinPon extends Producto {
